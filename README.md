@@ -1,5 +1,6 @@
 # Arkanoid-game
 An exercise as a part of the course 'introduction to OOP'.
+The project was implemeted using design patterns.
 
 # sample screenshots:
 ![image](https://user-images.githubusercontent.com/82665056/180960333-b66fe976-08f5-40d9-91a7-c1ee2592dea1.png)
